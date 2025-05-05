@@ -7,11 +7,6 @@
  <img width="900" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## Мое путешествие в мир IT:
-<p align="centr"> 
- <img width="20" src="assets/mario.game.svg" alt="snake"/>
-</p>
-
 ## 🤝 Социальные сети:
   <div id="badges">
     </a>
