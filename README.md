@@ -10,12 +10,12 @@
 
 ## About Me
 
-I'm a software engineer focused on building robust backend systems and exploring the intersection of traditional software development and artificial intelligence. Currently diving deep into AI/ML technologies, analyzing practical applications and integration patterns that enhance development velocity without compromising security or code quality.
+Backend software engineer focused on reliable systems and system design.
+Interested in concurrency, distributed systems, and practical uses of AI in software engineering.
 
-**Current Focus:**
-- Exploring AI/ML applications in software development
-- Building production-grade backend systems
-- Researching responsible AI usage in development workflows
+**Current focus:**
+- AI/ML in developer tooling and workflows
+- Production-grade backend systems
 - Game development experiments
 
 ---
@@ -38,19 +38,24 @@ I'm a software engineer focused on building robust backend systems and exploring
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JediAnaki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JediAnaki&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JediAnaki&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/JediAnaki">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JediAnaki&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JediAnaki&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+</a>
 
 </div>
 
 ---
 
-## Activity Graph
+## Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JediAnaki&theme=tokyo-night&hide_border=true)](https://github.com/JediAnaki)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JediAnaki&theme=transparent&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JediAnaki&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph&bg_color=00000000)
+
+</div>
 
 ---
 
@@ -59,8 +64,8 @@ I'm a software engineer focused on building robust backend systems and exploring
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kad_xyz)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=icloud&logoColor=white)](mailto:kulikov.daniel.tech@icloud.com)
 
 </div>
 
