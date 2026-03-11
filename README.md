@@ -26,8 +26,9 @@ Interested in concurrency, distributed systems, and practical uses of AI in soft
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
 
 ### Areas of Expertise
 ![Backend](https://img.shields.io/badge/Backend-Development-informational?style=for-the-badge)
